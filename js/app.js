@@ -5,7 +5,7 @@ function generate() {
     	"NP": ["#Det# #N#", "#Det# #N# that #VP#", "#Det# #Adj# #N#"],
     	"VP": ["#Vtrans# #NP#", "#Vintr#"],
     	"Det": ["The", "This", "That"],
-    	"N": ["John Keating", "Bob Harris", "Bruce Wayne", "John Constantine", "Tony Stark", "John Wick", "Sherlock Holmes", "King Leonidas"],
+    	"N": ["Mary Lungu", "Robert Phiri", "John Banda", "Brighton Nawa", "Jonathan Phiri", "Micheck Mbewe", "Simon Mumeno", "Chama Musonda"],
     	"Adj": ["cool", "lazy", "amazed", "sweet"],
     	"Vtrans": ["computes", "examines", "helps", "prefers", "sends", "plays with", "messes up with"],
     	"Vintr": ["coughs", "daydreams", "whines", "slobbers", "appears", "disappears", "exists", "cries", "laughs"]
